@@ -1,1 +1,3 @@
 git is a scm tool 
+
+now i am gonna use git checkout
